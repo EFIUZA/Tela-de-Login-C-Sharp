@@ -1,0 +1,26 @@
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\bin\Debug\net6.0-windows\Tela de Login com SQL Server.exe
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\bin\Debug\net6.0-windows\Tela de Login com SQL Server.deps.json
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\bin\Debug\net6.0-windows\Tela de Login com SQL Server.runtimeconfig.json
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\bin\Debug\net6.0-windows\Tela de Login com SQL Server.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\bin\Debug\net6.0-windows\Tela de Login com SQL Server.pdb
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\obj\Debug\net6.0-windows\Tela de Login com SQL Server.csproj.AssemblyReference.cache
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\obj\Debug\net6.0-windows\Tela_de_Login_com_SQL_Server.Telas.Cadastro.resources
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\obj\Debug\net6.0-windows\Tela_de_Login_com_SQL_Server.TelaDeLogin.resources
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\obj\Debug\net6.0-windows\Tela_de_Login_com_SQL_Server.Telas.TelaPrincipal.resources
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\obj\Debug\net6.0-windows\Tela de Login com SQL Server.csproj.GenerateResource.cache
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\obj\Debug\net6.0-windows\Tela de Login com SQL Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\obj\Debug\net6.0-windows\Tela de Login com SQL Server.AssemblyInfoInputs.cache
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\obj\Debug\net6.0-windows\Tela de Login com SQL Server.AssemblyInfo.cs
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\obj\Debug\net6.0-windows\Tela de Login com SQL Server.csproj.CoreCompileInputs.cache
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\obj\Debug\net6.0-windows\Tela de Login com SQL Server.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\obj\Debug\net6.0-windows\refint\Tela de Login com SQL Server.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\obj\Debug\net6.0-windows\Tela de Login com SQL Server.pdb
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\obj\Debug\net6.0-windows\Tela de Login com SQL Server.genruntimeconfig.cache
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\obj\Debug\net6.0-windows\ref\Tela de Login com SQL Server.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Tela de Login com SQL Server\Tela de Login com SQL Server\obj\Debug\net6.0-windows\Tela de Login com SQL Server.csproj.CopyComplete
